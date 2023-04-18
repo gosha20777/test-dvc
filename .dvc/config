@@ -1,4 +1,4 @@
 [core]
     remote = testremote
 ['remote "testremote"']
-    url = ssh://gosha20777@iitp-ml-02/mnt/nuberg/datasets/test-dvc-dataset
+    url = ssh://iitp-ml-02/mnt/nuberg/datasets/test-dvc-dataset
